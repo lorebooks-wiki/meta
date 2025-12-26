@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=https://www.schemastore.org/github-issue-config.json
+blank_issues_enabled: true
+contact_links:
+  - name: Subdomain Registry
+    about: For requests related to your lorebooks.wiki subdomains
+    url: https://gitlab.com/lorebooks-wiki/registry
+  - name: RecapTime.dev HQ
+    about: For meta discussions about Recap Time Squad itself as a whole.
+    url: https://gitlab.com/recaptime-dev/squad/meta
